@@ -9,7 +9,7 @@ I can develop web-based based Machine Learning models using Tensorflow.js, I am 
 <a href="https://www.linkedin.com/in/ashishpapanai/">
   <img align="left" alt="Ashish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+\
 ![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashishpapanai)
 
 
