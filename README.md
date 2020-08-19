@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hello, I am Ashish Papanai 
+A Computer Science Undergraduate student at Maharaja Agrasen Institute of Technology (Aﬀiliated to GGSIP University, Delhi), I am a Promising Competitive Programmer with 1709 Rating at Codechef. I am a Machine Learning Enthusiast and a Contributor at Kaggle. I solve Computer Science related queries of Students at Chegg.com, I am proficient in Java, C++ and Python and I have a good command on Data Structures and Algorithms and good command on problem-solving with C++ and Java. 
 
+I can develop web-based based Machine Learning models using Tensorflow.js, I am specialised in deep learning with a special interest in Computer Vision through convolution neural networks. In data science, I can fine-tune the data and make it speak by taking it from data cleaning to data visualisation and applying Machine Learning models to make accurate predictions. *(*subject to data availability)*
+
+#### Skill Set - Deep Learning, Machine Learning, Data Science, MERN Stack Web Development, Data Structures and Algorithms. 
 <!--
 **ashishpapanai/ashishpapanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
