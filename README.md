@@ -6,7 +6,7 @@ I can develop web-based based Machine Learning models using Tensorflow.js, I am 
 #### Skill Set - Deep Learning, Machine Learning, Data Science, MERN Stack Web Development, Data Structures and Algorithms. 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ashishpapanai&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpapanai&hide=java,cpp)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpapanai&hide=java,css)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
 
 ##### Connect with me at Linkedin: <a href="https://www.linkedin.com/in/ashishpapanai/">
