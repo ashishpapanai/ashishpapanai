@@ -3,8 +3,6 @@ A Computer Science Undergraduate student at Maharaja Agrasen Institute of Techno
 
 I can develop web-based based Machine Learning models using Tensorflow.js, I am specialised in deep learning with a special interest in Computer Vision through convolution neural networks. In data science, I can fine-tune the data and make it speak by taking it from data cleaning to data visualisation and applying Machine Learning models to make accurate predictions. *(*subject to data availability)*
 
-#### Skill Set - Deep Learning, Machine Learning, Data Science, MERN Stack Web Development, Data Structures and Algorithms. 
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=ashishpapanai&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpapanai&hide=java,css)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
