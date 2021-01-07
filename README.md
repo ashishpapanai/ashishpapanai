@@ -3,7 +3,7 @@ A Computer Science Undergraduate student at Maharaja Agrasen Institute of Techno
 
 I can develop web-based based Machine Learning models using Tensorflow.js, I am specialised in deep learning with a special interest in Computer Vision through convolution neural networks. In data science, I can fine-tune the data and make it speak by taking it from data cleaning to data visualisation and applying Machine Learning models to make accurate predictions. 
 
-##### Connect with me at Linkedin: <a href="https://www.linkedin.com/in/ashishpapanai/">
+##### Connect with me on Linkedin: <a href="https://www.linkedin.com/in/ashishpapanai/">
   <img align="left" alt="Ashish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
